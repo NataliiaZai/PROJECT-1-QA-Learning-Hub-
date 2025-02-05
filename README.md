@@ -1,6 +1,9 @@
 Project Name: QA Learning Hub. 
 Name of Product: The test object is the IT ACADEMY STEP website.
+Test plan https://docs.google.com/document/d/18H8A-XulJ4nPCUA3yQ_OBzJ8616PcysMwHEiOXrXnV4/edit?usp=drive_link
 Product Description: This site contains the most important educational materials and video tutorials that will help facilitate the learning process for future students. You can use a tech check and take short tests to improve your knowledge. 
+Test plan: https://docs.google.com/document/d/18H8A-XulJ4nPCUA3yQ_OBzJ8616PcysMwHEiOXrXnV4/edit?usp=drive_link.
+
 Misson of the project: Conduct testing to verify the quality of the web application. Ensure the application is released without defects. 
 Project output product: Test Summary report and Defects evaluation. 
 Project Type: Functionality, GUI and Usability. 
